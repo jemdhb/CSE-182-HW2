@@ -1,1 +1,1 @@
-# CSE-182-HW2
+# Sequence Alignment and Gap penalties
